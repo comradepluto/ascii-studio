@@ -35,7 +35,7 @@ in [INSTALL.md](INSTALL.md). The short version:
 ### Linux (easy)
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/ascii-studio.git
+git clone https://github.com/comradepluto/ascii-studio.git
 cd ascii-studio
 ./install.sh
 ```
@@ -47,7 +47,7 @@ with `./install.sh --pip`.
 ### Any OS, with pip
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/ascii-studio.git
+git clone https://github.com/comradepluto/ascii-studio.git
 cd ascii-studio
 python3 -m pip install --user -r requirements.txt
 ```
@@ -55,7 +55,7 @@ python3 -m pip install --user -r requirements.txt
 ### Directly from GitHub
 
 ```sh
-python3 -m pip install --user git+https://github.com/YOUR_USERNAME/ascii-studio.git
+python3 -m pip install --user git+https://github.com/comradepluto/ascii-studio.git
 ```
 
 ## Quick start
